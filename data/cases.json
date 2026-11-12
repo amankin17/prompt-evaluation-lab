@@ -1,0 +1,5 @@
+[
+  {"id":"campaign","task":"Summarise campaign performance. Revenue was 12000 EUR, spend 4000 EUR. Return JSON with summary and recommendation.","required":["revenue","spend"],"format":"json","known_numbers":[12000,4000]},
+  {"id":"risk","task":"Brief a risk manager: delinquency is 6 percent and arrears cases number 40. Explain the operational next step.","required":["delinquency","arrears"],"format":"text","known_numbers":[6,40]},
+  {"id":"retention","task":"Explain retention: 80 subscribers renewed out of 100. Give a business recommendation.","required":["renewed","retention"],"format":"text","known_numbers":[80,100]}
+]
