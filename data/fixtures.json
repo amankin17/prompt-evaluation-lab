@@ -1,0 +1,12 @@
+{
+  "baseline": {
+    "campaign":"Revenue was strong and spend seems fine.",
+    "risk":"Delinquency is 6 percent. Monitor it.",
+    "retention":"80 subscribers renewed."
+  },
+  "structured": {
+    "campaign":"{\"summary\": \"Revenue 12000 EUR; spend 4000 EUR.\", \"recommendation\": \"Compare return on ad spend by channel before reallocating budget.\"}",
+    "risk":"Delinquency is 6 percent and arrears cases total 40. Recommendation: review accounts by aging bucket and prioritise outreach.",
+    "retention":"80 subscribers renewed out of 100, implying 80 percent retention. Recommendation: investigate churn reasons among non-renewals."
+  }
+}
